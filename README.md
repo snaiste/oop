@@ -1,6 +1,6 @@
 ## Object-Oriented Programming in C++ course
 
-[Syllabus](http://bluebook.physics.manchester.ac.uk/10_syllabuses/physics_level3/phys_30762.html): 
+Syllabus [1]: 
 
 * The basic properties of C++: constants; boolean data-types; pointers and references; dynamic memory allocation; function overloading.
 * Data streams: standard input/output; managing files.
@@ -10,3 +10,5 @@
 * Structuring programs: header files; multiple source files; namespaces.
 * Advanced C++ features: static data; templates; runtime type checking; error handling.
 * The C++ Standard Library; the boost library; other libraries.
+
+[1] Syllabus for PHYS 30762: Programming in C++ (2015/16), School of Physics and Astronomy, the University of Manchester.
