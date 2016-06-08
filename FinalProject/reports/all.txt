@@ -1,0 +1,18 @@
+
+Staff: STAFF1
+Project: B
+-----------------------------
+Number of measurements: 23
+Mean: 77.53
+Standard Deviation: 15.745
+Error in the mean: 3.2831
+-----------------------------
+
+Staff: STAFF1
+Project: A
+-----------------------------
+Number of measurements: 20
+Mean: 79.443
+Standard Deviation: 13.957
+Error in the mean: 3.121
+-----------------------------
