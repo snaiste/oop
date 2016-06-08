@@ -1,4 +1,4 @@
-## Object-Oriented Programming in C++ course (PHYS30762) at the School of Physics and Astronomy, the University of Manchester
+## Object-Oriented Programming in C++ course
 
 [Syllabus](http://bluebook.physics.manchester.ac.uk/10_syllabuses/physics_level3/phys_30762.html): 
 
