@@ -1,37 +1,8 @@
 /* ------------------------------------------------------------------------
 *
-*   Object-Oriented Programming in C++ (PHYS30762)
-*   School of Physics and Astronomy, The University of Manchester
+*   Object-Oriented Programming in C++
 *   Date: 12 February 2016
 *   Author: Aiste Norkute
-*
-*   millikan.cpp
-*
-*   DESCRIPTION: This program calculates the mean, standard deviation and
-*   standard error of the mean of data saved in .dat file, which is saved
-*   within the same directory as the program.
-*
-*   METHOD: There are two files of synthetic data (millikan.dat and
-*   millikan2.dat) for the charge of an electron (Millikan’s experiment).
-*   The first file contains 50 floating point numbers. The program, however
-*   does not ask user for a number of entries in the file and it rather
-*   dynamically resizes the data array. The second file is identical but also
-*   contains a rogue word. This program reads in these data and compute the
-*   mean, standard deviation and standard error of the mean for the electronic
-*   charge in Coulomb. This program, however, be used for any other data, as
-*   long as it is saved in .dat file and data are floating point numbers.
-*
-*   INPUT:
-*      - file named as <filename.dat>, containing floating point numbers
-*      - data file should be saved in the same directory as 'millikan.cpp'
-*
-*   RETURN:
-*      - mean, standard deviation and error on the mean in Coulombs
-*      - number of floating point numbers read and total entries in the file
-*
-*   WARNINGS / ERRORS:
-*      - warning: data file contains values that are not floating point numbers
-*      - error: could not open specified file
 *
 * ----------------------------------------------------------------------*/
 
