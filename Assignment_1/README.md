@@ -6,15 +6,15 @@ This program calculates the energy for a transition. It asks the user to enter t
 
 ### Input
 * 3 integers: atomic number, initial and final quantum numbers
-* string: J or eV (case insensitive) for units
-* string: y or n (case insensitive) to repeat or stop the program
+* String: J or eV (case insensitive) for units
+* String: y or n (case insensitive) to repeat or stop the program
 
 ### Return
-* energy in J, eV or both
+* Energy in J, eV or both
 
 ### Errors
-* input values set is unphysical:
-	- atomic number, initial and final quantum numbers are <= 0 NB: ground state is 1
-	- initial quantum number is > final quantum number
-* input values should be formatted correctly, i.e. if program is expecting integer, then it checks if it is integer
-* program accepts only "Y" or "N" (case insensitive) as user reply to repeat or stop the program
+* Input values set is unphysical:
+	- Atomic number, initial and final quantum numbers are <= 0 NB: ground state is 1
+	- Initial quantum number is > final quantum number
+* Input values should be formatted correctly, i.e. if program is expecting integer, then it checks if it is integer
+* Program accepts only "Y" or "N" (case insensitive) as user reply to repeat or stop the program
