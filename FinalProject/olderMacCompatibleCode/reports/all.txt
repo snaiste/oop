@@ -1,0 +1,36 @@
+
+Staff: STAFF1
+Project: A
+-――――――――――――――――――――――――――――
+Number of measurements:      20
+Mean: 71.701
+Standard Deviation: 13.48
+Error in the mean: 3.0143
+-――――――――――――――――――――――――――――
+
+Staff: STAFF1
+Project: B
+-――――――――――――――――――――――――――――
+Number of measurements:      20
+Mean: 76.949
+Standard Deviation: 16.261
+Error in the mean: 3.6361
+-――――――――――――――――――――――――――――
+
+Staff: STAFF2
+Project: A
+-――――――――――――――――――――――――――――
+Number of measurements:      26
+Mean: 74.477
+Standard Deviation: 12.448
+Error in the mean: 2.4412
+-――――――――――――――――――――――――――――
+
+Staff: STAFF2
+Project: B
+-――――――――――――――――――――――――――――
+Number of measurements:      18
+Mean: 70.643
+Standard Deviation: 16.541
+Error in the mean: 3.8988
+-――――――――――――――――――――――――――――
